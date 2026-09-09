@@ -13,6 +13,7 @@ const moudra = [
     "Já zvažuji, kdy poprosíme dědka.",
     "Bebínkuje, to je taky takový matlas.",
     "Já nepracuji s časem, čas pracuje se mnou.",
+    "Lukáši, ty ceny jako by padaly z nebe přímo k zemi!"
     "Jsi shrbený jako pán s kufříkem.",
     "Tebe snad políbila múza. Ne, mě políbil Adam.",
     "My už nerozumíme česky.",
