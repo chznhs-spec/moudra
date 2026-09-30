@@ -13,7 +13,7 @@ const moudra = [
     "Já zvažuji, kdy poprosíme dědka.",
     "Bebínkuje, to je taky takový matlas.",
     "Já nepracuji s časem, čas pracuje se mnou.",
-    "Lukáši, ty ceny jako by padaly z nebe přímo k zemi!"
+    "Lukáši, ty ceny jako by padaly z nebe přímo k zemi!",
     "Jsi shrbený jako pán s kufříkem.",
     "Tebe snad políbila múza. Ne, mě políbil Adam.",
     "My už nerozumíme česky.",
@@ -30,7 +30,9 @@ const moudra = [
     "A rezistor nás nezajímá.",
     "Tak dlouho se s prutem pro vodu chodí, než se pivo přinese.",
     "Každá ryba někde začíná i končí.",
-    "My nechceme obrys, my chceme vzdělání."
+    "My nechceme obrys, my chceme vzdělání.",
+    "Lukáši, ty ceny jako by padaly z nebe přímo k zemi!",
+    "Zmenším jim to egoistický logo."
 ];
 
 let currentIndex = 0;
